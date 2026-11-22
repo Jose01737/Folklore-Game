@@ -1,0 +1,106 @@
+{
+  "aswang": {
+    "name": "Aswang", "origin": "Philippines", "behavior": "mimic",
+    "speed": 95, "sight": 260, "color": "#8a3b3b", "weakness_item": "garlic",
+    "summary": "A shape-shifter that lives as an ordinary neighbor by day and hunts by night.",
+    "lore_clues": [
+      "Families hang garlic and salt above the doorway after dusk. The kind widow next door never joins the evening gathering.",
+      "The old stories say an aswang looks like any neighbor until you are close. Dogs and roosters know first.",
+      "Garlic is the oldest defense. Show it, and the disguise breaks."
+    ],
+    "lure_text": "A neighbor's voice calls your name from the dark. You live alone.",
+    "banish_text": "The disguise tears like wet paper. The thing wearing it flees into the night.",
+    "enrage_text": "It laughs, and the laugh is no longer human."
+  },
+  "onryo": {
+    "name": "Onryo", "origin": "Japan", "behavior": "gaze",
+    "speed": 120, "sight": 380, "color": "#d8d8ff", "weakness_item": "ofuda",
+    "summary": "A vengeful spirit that cannot rest. It moves only when it is not being watched.",
+    "lore_clues": [
+      "The wet footprints stop whenever someone turns around, like the children's game of freezing when the watcher looks.",
+      "Priests say a grudge this strong cannot be argued with. It must be sealed.",
+      "Shrines sell paper talismans, ofuda, written to seal restless spirits."
+    ],
+    "lure_text": "Wet footsteps. Behind you. Then silence.",
+    "banish_text": "The paper burns white. The spirit folds into the floorboards and is still.",
+    "enrage_text": "Your hands shake. It is not sealed. It is angry."
+  },
+  "llorona": {
+    "name": "La Llorona", "origin": "Mexico", "behavior": "stalk",
+    "speed": 70, "sight": 420, "color": "#5ea0c8", "weakness_item": "child_shoe",
+    "summary": "A weeping woman in white who searches the river for the children she lost.",
+    "lore_clues": [
+      "Children are told to be home before the weeping starts. The sound seems nearer the more you run.",
+      "She is not hunting you. She is searching. Anything small and lost draws her attention.",
+      "A grieving mother will stop for what belongs to her child. Offer her something that was a child's."
+    ],
+    "lure_text": "Ay, mis hijos... The weeping is coming from every direction.",
+    "banish_text": "She takes the little shoe and holds it to her chest. The weeping fades down the river.",
+    "enrage_text": "That was not what she was looking for. The weeping becomes a scream."
+  },
+  "pontianak": {
+    "name": "Pontianak", "origin": "Malaysia / Indonesia", "behavior": "charge",
+    "speed": 100, "sight": 300, "color": "#c85a8a", "weakness_item": "iron_nail",
+    "summary": "A vengeful spirit of a woman who died in childbirth. The scent of frangipani warns of her.",
+    "lore_clues": [
+      "Frangipani flowers smell strongest when she is near. A baby crying alone in the night is never what it seems.",
+      "She lunges fast, then retreats. Keep your distance and watch for her hair.",
+      "Elders say a nail driven into the back of her neck ends her fury."
+    ],
+    "lure_text": "A baby cries nearby. The scent of frangipani turns sickly sweet.",
+    "banish_text": "The nail sinks in. She shudders, and the hunger leaves her face.",
+    "enrage_text": "Wrong. She shrieks and the frangipani smell chokes the air."
+  },
+  "rusalka": {
+    "name": "Rusalka", "origin": "Ukraine / Slavic lands", "behavior": "mimic",
+    "speed": 90, "sight": 280, "color": "#4fa88a", "weakness_item": "wormwood",
+    "summary": "The restless spirit of a drowned girl who lures travelers to the water's edge.",
+    "lore_clues": [
+      "Villagers avoid the river in Rusal'na week, when the spirits come ashore to dance and sing.",
+      "If a rusalka asks you a riddle you cannot answer, she tickles you to death.",
+      "Travelers tuck wormwood into their clothes. The bitter smell drives them away."
+    ],
+    "lure_text": "A sweet song drifts over the reeds. Your feet turn toward it.",
+    "banish_text": "She recoils from the bitter herb and slips back beneath the water.",
+    "enrage_text": "The song turns shrill. Wrong remedy."
+  },
+  "nuckelavee": {
+    "name": "Nuckelavee", "origin": "Scotland (Orkney)", "behavior": "charge",
+    "speed": 110, "sight": 340, "color": "#a86a3a", "weakness_item": "fresh_water",
+    "summary": "A skinless horseman-beast from the sea whose breath withers crops and livestock.",
+    "lore_clues": [
+      "Crofters say it wanders the shore, but never crosses running fresh water.",
+      "Even brave men would go miles out of their way to avoid it. It hates the burn, the stream of sweet water.",
+      "Fresh water is the one thing it will not pass."
+    ],
+    "lure_text": "Hooves on wet stone. The air smells like rot and brine.",
+    "banish_text": "It rears back from the water and bolts for the sea.",
+    "enrage_text": "That did nothing. It charges, furious."
+  },
+  "tokoloshe": {
+    "name": "Tokoloshe", "origin": "South Africa (Zulu and Xhosa tradition)", "behavior": "gaze",
+    "speed": 130, "sight": 300, "color": "#6a6a8a", "weakness_item": "brick",
+    "summary": "A small mischievous spirit said to attack sleepers. You mostly see it when it wants to be seen.",
+    "lore_clues": [
+      "Many families raise their beds off the floor. Somebody always insists on it.",
+      "It is small and cannot reach a high bed. It waits at the foot of the bed.",
+      "Bricks under the bed legs keep a sleeper out of its reach."
+    ],
+    "lure_text": "A giggle at floor level. Something small scrapes under the bed.",
+    "banish_text": "You stack the bricks. It cannot reach. With a hiss, it is gone.",
+    "enrage_text": "Wrong again. Its giggle becomes a snarl."
+  },
+  "wendigo": {
+    "name": "Wendigo", "origin": "Algonquian peoples (Great Lakes / boreal forest)", "behavior": "stalk",
+    "speed": 115, "sight": 320, "color": "#e8e0c8", "weakness_item": "torch",
+    "summary": "A winter spirit of insatiable hunger. In living tradition it is a serious subject; see the cultural notes in the README.",
+    "lore_clues": [
+      "Winter tales say it hunts the starving and the greedy. It is drawn to the cold.",
+      "It is tall, gaunt, and always hungry. It is cold itself, and it fears warmth.",
+      "Fire is the answer in the stories. Keep a flame lit and carry it."
+    ],
+    "lure_text": "Branches break overhead. Something very tall is walking in the trees.",
+    "banish_text": "The torch flares. It howls, gaunt and pale, and the cold retreats with it.",
+    "enrage_text": "It was not afraid of that. It comes faster."
+  }
+}

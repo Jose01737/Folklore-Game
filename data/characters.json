@@ -1,0 +1,22 @@
+{
+  "imani": { "name": "Dr. Imani Okafor", "role": "Folklorist",
+    "bio": "She collected stories for twenty years. Now she's inside one.",
+    "perk": "Reads more from every note (reveals an extra clue).",
+    "speed": 140, "sanity_max": 100, "sanity_drain_mult": 1.0, "noise_mult": 1.0, "lore_bonus": 1,
+    "start_item": "", "color": "#e8c46a" },
+  "mateo": { "name": "Mateo Salazar", "role": "Trail Guide",
+    "bio": "Knows how to move through bad country quickly.",
+    "perk": "Fastest survivor.",
+    "speed": 170, "sanity_max": 90, "sanity_drain_mult": 1.1, "noise_mult": 1.0, "lore_bonus": 0,
+    "start_item": "", "color": "#7ac27a" },
+  "hana": { "name": "Hana Kobayashi", "role": "Shrine Keeper's Granddaughter",
+    "bio": "Grew up around old things that should not be disturbed.",
+    "perk": "Steady nerves (sanity drains slower). Starts with an ofuda.",
+    "speed": 145, "sanity_max": 100, "sanity_drain_mult": 0.65, "noise_mult": 1.0, "lore_bonus": 0,
+    "start_item": "ofuda", "color": "#d88aa8" },
+  "rook": { "name": "Ruben 'Rook' Delacroix", "role": "Urban Explorer",
+    "bio": "Breaks into places no one should enter, quietly.",
+    "perk": "Very quiet. Starts with spring water.",
+    "speed": 150, "sanity_max": 80, "sanity_drain_mult": 1.0, "noise_mult": 0.6, "lore_bonus": 0,
+    "start_item": "fresh_water", "color": "#7a9ad8" }
+}

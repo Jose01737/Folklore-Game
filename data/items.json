@@ -1,0 +1,10 @@
+{
+  "garlic":      { "name": "Garlic Braid",     "desc": "Pungent. Traditional protection against night-hunters." },
+  "ofuda":       { "name": "Ofuda Talisman",   "desc": "A paper seal from a shrine." },
+  "child_shoe":  { "name": "Child's Shoe",     "desc": "Small, worn, and loved." },
+  "torch":       { "name": "Pitch Torch",      "desc": "Burns bright and warm." },
+  "wormwood":    { "name": "Wormwood Bundle",  "desc": "Bitter herb with a sharp smell." },
+  "fresh_water": { "name": "Flask of Spring Water", "desc": "Clear, cold, and running-fresh." },
+  "brick":       { "name": "Brick",            "desc": "Heavy. Good for raising things." },
+  "iron_nail":   { "name": "Iron Nail",        "desc": "Cold iron. Old and rusted." }
+}
