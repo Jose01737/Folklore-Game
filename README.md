@@ -69,3 +69,5 @@ You are drawing on living traditions. For a commercial release:
 - Hire **cultural consultants / sensitivity readers** from each tradition. The Wendigo in particular is a serious subject for many Algonquian peoples, and sacred objects (like ofuda) should be treated with respect.
 - Credit sources and consultants in-game.
 - The weaknesses here are drawn from folklore but adapted for gameplay. Verify and refine them with people from those cultures, and favor local storytellers over film versions.
+- ## PSA
+- this is not the actual game this is was the first idea of the game concept.
